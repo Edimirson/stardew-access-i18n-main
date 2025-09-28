@@ -2,7 +2,7 @@ Tradução PT-BR – Stardew Access
 Versão do stardew access que foi feita a tradução = Stardew Access 1.6.2
 Esta é uma tradução do mod Stardew Access para português do Brasil (PT-BR), feita por mim.
 
-📦 Versão do Mod Base: 1.0.2
+📦 Versão do Mod Base: 1.6.2
 🔗 Página oficial do desenvolvedor: [GitHub - Stardew Access](https://github.com/stardew-access/stardew-access)
 
 📥 Instalação da Tradução PT-BR
