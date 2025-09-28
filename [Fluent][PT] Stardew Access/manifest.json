@@ -1,0 +1,17 @@
+﻿{
+  "Name": "[Fluent][PT] Stardew Access",
+  "Author": "Edimirson Danda",
+  "Version": "1.0.0",
+  "Description": "Tradução do mod Stardew Access para o idioma Português-BR (PT). - Majoritariamente por IA",
+  "UniqueID": "Edimirson.StardewAccess.PT",
+  "UpdateKeys": [], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
+  "ContentPackFor": {
+    "UniqueID": "Shockah.ProjectFluent"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "shoaib.stardewaccess",
+      "MinimumVersion": "1.5.0-beta.1"
+    }
+  ]
+}
