@@ -4,7 +4,7 @@
   "Version": "1.0.0",
   "Description": "Tradução do mod Stardew Access para o idioma Português-BR (PT). - Majoritariamente por IA",
   "UniqueID": "Edimirson.StardewAccess.PT",
-  "UpdateKeys": [], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
+  "UpdateKeys": [ "GitHub:Edimirson/stardew-access-i18n-main" ], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
   "ContentPackFor": {
     "UniqueID": "Shockah.ProjectFluent"
   },
