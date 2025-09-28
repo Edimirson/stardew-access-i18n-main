@@ -13,4 +13,4 @@ Baixe a tradução PT-BR.
 
 Copie a pasta [Fluent][PT] Stardew Access para dentro da pasta Mods do Stardew Valley.
 
-Inicie o jogo e aproveite a tradução em português! 🎉
+Inicie o jogo e aproveite a tradução em português!! 🎉
